@@ -1,6 +1,6 @@
 # Olá! Eu sou Kauã Caethel 👋
 
-### 🐍 Estudante de Python | Futuro Engenheiro de Inteligência Artificial
+### Estudante de Python | Estudando para Engenharia de Inteligência Artificial
 
 Sou um estudante de programação focado no desenvolvimento de soluções com **Python, Inteligência Artificial e integração de APIs**. Meu objetivo é construir ferramentas inteligentes capazes de automatizar tarefas, simplificar processos e otimizar o tempo dos usuários.
 
