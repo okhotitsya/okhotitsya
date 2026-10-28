@@ -30,7 +30,7 @@ Quero transformar tarefas repetitivas em processos automatizados, reduzindo o tr
 - 🔗 **Integração de APIs:** aplicações que conectam diferentes serviços para criar soluções inteligentes.
 - 🧠 **Aplicações com LLMs:** projetos para explorar o uso, a integração e, futuramente, a manutenção de modelos de linguagem.
 
-## 🛠️ Tecnologias e ferramentas
+<!-- ## 🛠️ Tecnologias e ferramentas
 
 **Atualmente, meu foco principal é Python e a construção de uma base sólida de programação.**
 
@@ -59,7 +59,7 @@ Por isso, utilizo este GitHub para documentar minha evolução, compartilhar meu
 
 **Meu objetivo é criar tecnologia que resolva problemas, automatize tarefas e devolva tempo às pessoas.**
 
----
+-->
 
 
 ## 🧭 Caso queira fazer conexão comigo
